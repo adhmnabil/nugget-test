@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://colorlib.com/etc/searchf/colorlib-search-13/images/Searchs_013.png);
+}
+
+
+.dest{
+    background: white;
+    color: black;
+    height: 55px;
+    padding: 15px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+.dest2{
+    background: #a18f61;
+    color: black;
+    height: 55px;
+    padding: 15px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+}
+
+.date{
+    background-color: #003b95;
+    color: white;
+    height: 55px;
+    padding: 15px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    border: none;
+}
+.date:focus-visible{
+    border: none;
+    outline: none;
+}
+.btn-search{
+    background-color: #003b95 !important;
+    color: white !important;
+}
+.form{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background: #0000005c;
+    z-index: 50;
+}
+.form-data{
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+.frame{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
